@@ -1,4 +1,4 @@
-# active-directory-home-lab
+# Active-directory-home-lab
 <h1> Description </h1>
 Creating an 'Active Directory Home Lab using VirtualBox' involves setting up a simulated network environment on your personal computer using VirtualBox virtualization software. The purpose of this lab is to gain practical knowledge and hands-on experience with Active Directory and Windows networking concepts.
 <br />
